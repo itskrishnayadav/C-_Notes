@@ -1,0 +1,3 @@
+g++ or g++ file_name -o <compile_file-name>
+./a.out or ./file_name
+
